@@ -71,4 +71,7 @@ Start the local development server:
 *   MySQL
 *   Tailwind CSS
 
+![Screenshot](https://ik.imagekit.io/h39n86spm/Screenshot%20(35).png?updatedAt=1741265295790)
+![Screenshot](https://ik.imagekit.io/h39n86spm/Screenshot%20(36).png?updatedAt=1741265295910)
+
 
